@@ -1,0 +1,116 @@
+# =========================
+# CORE PYTHON UTILITIES
+# =========================
+numpy
+pandas
+scipy
+joblib
+tqdm
+python-dotenv
+
+# =========================
+# DATA VISUALIZATION
+# =========================
+matplotlib
+seaborn
+plotly
+pandas-profiling
+missingno
+yellowbrick
+
+# =========================
+# MACHINE LEARNING
+# =========================
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# =========================
+# DEEP LEARNING
+# =========================
+tensorflow
+keras
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+
+# =========================
+# NATURAL LANGUAGE PROCESSING
+# =========================
+nltk
+spacy
+gensim
+textblob
+scikit-multilearn
+
+# =========================
+# DATA INGESTION + CLEANING
+# =========================
+openpyxl
+xlrd
+pyarrow
+fastparquet
+dask
+polars
+
+# =========================
+# MODEL INTERPRETABILITY / EXPLAINABILITY
+# =========================
+shap
+lime
+eli5
+
+# =========================
+# MLOPS + DEPLOYMENT
+# =========================
+mlflow
+boto3
+sagemaker
+fastapi
+flask
+streamlit
+gradio
+
+# =========================
+# DATABASE + STORAGE
+# =========================
+sqlalchemy
+pymysql
+psycopg2-binary
+pymongo
+
+# =========================
+# AUTOMATION + PIPELINES
+# =========================
+prefect
+luigi
+apache-airflow
+
+# =========================
+# EXPERIMENTATION + UTILITIES
+# =========================
+optuna
+hyperopt
+ray
+pydantic
+
+# =========================
+# TESTING + QUALITY
+# =========================
+pytest
+black
+flake8
+isort
+
+# =========================
+# NOTEBOOKS & KERNELS
+# =========================
+jupyter
+notebook
+ipykernel
+jupyterlab
+jupyter-contrib-nbextensions
